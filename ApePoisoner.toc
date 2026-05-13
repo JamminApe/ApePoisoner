@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: ApePoisoner
+## Notes: Simple poison reapplication helper for Project Ascension
+## Author: JamminApe
+## Version: 2.0
+## SavedVariables: AscPoisonerDB
+
+Bindings.xml
+PoisonData.lua
+Core.lua
+UI.lua
+Config.lua
